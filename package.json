@@ -1,5 +1,5 @@
 {
-  "name": "react-native-os-aniket",
+  "name": "rn-os-aniket",
   "version": "1.0.1",
   "description": "node's os module for react-native",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aprock/react-native-os.git"
+    "url": "git+https://github.com/dev-aniketj/react-native-os-aniket.git"
   },
   "deprecated": false,
   "devDependencies": {
     "babel-eslint": "^4.1.6",
     "eslint-plugin-react": "^3.11.3"
   },
-  "homepage": "https://github.com/aprock/react-native-os",
+  "homepage": "https://github.com/dev-aniketj/react-native-os-aniket",
   "keywords": [
     "react-component",
     "reactnative",
